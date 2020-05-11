@@ -8,6 +8,7 @@ Download file '.swc' in your computer.
 
 Then, in the R console, type 
 ```R
+    library(swirl)
     install_course()
 ```
 You will be asked to select the '.swc' you downloaded previously. 
