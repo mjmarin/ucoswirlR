@@ -20,3 +20,11 @@ Once installed, type
 ```
 
 You are ready to select this new course and start learning!
+
+Usefule notes:
+* If you want to use this course on a multi-user system (e.g. the computers of your university), you might need to set the following variables, right after loading the swirl library:
+```R
+   swirl_options(swirl_data_dir="~/swirl_data")
+   swirl_options(swirl_courses_dir="~/swirl_courses")
+```
+This example assumes that you have previously created both folders `swirl_data` and `swirl_courses` in your home directory.
