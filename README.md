@@ -6,6 +6,11 @@ By [Manuel J. Marin-Jimenez ](https://github.com/mjmarin)
 # Quick start
 Download file '.swc' in your computer.
 
+First of all, make sure you have installed 'swirl' library in your R system. Otherwise, type
+```R
+   install.packages("swirl")
+```
+
 Then, in the R console, type 
 ```R
     library(swirl)
