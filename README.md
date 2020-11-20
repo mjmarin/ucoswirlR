@@ -3,13 +3,15 @@ Swirl course to learn R for the students of the University of Cordoba (Spain)
 
 By [Manuel J. Marin-Jimenez ](https://github.com/mjmarin)
 
-# Quick start
-Download file '.swc' in your computer.
-
-First of all, make sure you have installed 'swirl' library in your R system. Otherwise, type
+First of all, make sure you have installed 'swirl' library in your R system. Otherwise, type in the R console
 ```R
    install.packages("swirl")
 ```
+
+
+
+# Quick start
+Download file '.swc' in your computer.
 
 Then, in the R console, type 
 ```R
