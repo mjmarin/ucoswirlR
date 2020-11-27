@@ -1,5 +1,5 @@
 # UCO swirl R
-Swirl course to learn R for the students of the University of Cordoba (Spain)
+Swirl course to learn R programming for the students of the University of Cordoba (Spain).
 
 By [Manuel J. Marin-Jimenez ](https://github.com/mjmarin)
 
@@ -28,7 +28,7 @@ Once installed, type
 
 You are ready to select this new course and start learning!
 
-Usefule notes:
+Useful notes:
 * If you want to use this course on a multi-user system (e.g. the computers of your university), you might need to set the following variables, right after loading the swirl library:
 ```R
    swirl_options(swirl_data_dir="~/swirl_data")
